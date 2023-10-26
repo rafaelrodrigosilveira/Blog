@@ -1,0 +1,9 @@
+Sistema: Blog
+
+Objetivo: criar um blog afim de utilizar em outro projeto.
+Desenvolvido por: Rafael Rodrigo Silveira
+Em: 06 Janeiro de 2020
+Plataforma Web - Code Igniter
+Database: Mysql
+Linguagens: Php7, html5, CSS
+Frameworks: bootstrap 4 e CodeIgniter 3.1.11
